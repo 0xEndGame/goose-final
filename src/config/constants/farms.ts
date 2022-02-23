@@ -5,7 +5,7 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'MRKL-USDC LP',
+    lpSymbol: 'MRKL-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0x8694a1864e04624Bb9FB8b8F1969829CfA1367A3',
@@ -21,7 +21,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'MERKEL-FTM LP',
+    lpSymbol: 'MERKEL-BNB LP',
     lpAddresses: {
       97: '',
       56: '0xd1b59d11316e87c3a0a069e80f590ba35cd8d8d3',

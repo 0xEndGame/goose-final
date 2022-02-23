@@ -23,7 +23,7 @@ export default {
     56: '0xb828C456600857abd4ed6C32FAcc607bD0464F4F',
     97: '0x67ADCB4dF3931b0C5Da724058ADC2174a9844412',
   },
-  usdc: {
+  busd: {
     56: '0x04068DA6C83AFCFA0e13ba15A6696662335D5B75',
     97: '',
   },
