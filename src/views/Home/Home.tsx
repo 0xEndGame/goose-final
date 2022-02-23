@@ -23,7 +23,6 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/egg/merk_webp.webp'), url('/images/egg/merk_webp.webp');
     background-position: left center, right center;
     height: 165px;
     padding-top: 0;
