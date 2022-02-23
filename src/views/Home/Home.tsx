@@ -11,7 +11,7 @@ import TwitterCard from './components/TwitterCard'
 
 const Hero = styled.div`
   align-items: center;
-  background-image: url('/images/egg/merk_webp.webp');
+  background-image: url('/images/egg/hands.webp');
   background-repeat: no-repeat;
   background-position: top center;
   display: flex;
