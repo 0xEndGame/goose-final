@@ -753,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Merkel Swap"
+        "text": " "
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "$MRKL"
+        "text": " "
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake EGG to earn new tokens."
+        "text": "Stake $MRKL to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "EGG to burn (USD)"
+        "text": "$MRKL to burn (USD)"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy EGG and BNB tokens"
+        "text": "Buy $MRKL and FTM tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get EGG-BNB LP tokens by adding EGG and BNB liquidity"
+        "text": "Get MRKL-FTM LP tokens by adding MRKL and FTM liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your EGG-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your MRKL-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for EGG, or keep for your collection!"
+        "text": "Trade in for MRKL, or keep for your collection!"
       }
     },
     {
