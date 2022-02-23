@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.goosedefi.com/',
+        href: 'spookyswap.finance',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.goosedefi.com/#/pool',
+        href: 'Spookyswap.finance',
       },
     ],
   },
@@ -50,8 +50,8 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        label: 'SpookySwap',
+        href: '#',
       },
       {
         label: 'CoinGecko',
@@ -60,10 +60,6 @@ const config: MenuEntry[] = [
       {
         label: 'CoinMarketCap',
         href: 'https://coinmarketcap.com/currencies/goose-finance/',
-      },
-      {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
       },
     ],
   },
