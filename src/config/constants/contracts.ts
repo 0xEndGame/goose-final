@@ -1,5 +1,5 @@
 export default {
-  cake: {
+  merkel: {
     250: '0x2f49B9a4d13fc7f4A1A46ef4a546F8c8FC0C9526',
     97: '',
   },
