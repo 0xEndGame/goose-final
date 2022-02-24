@@ -5,12 +5,12 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'MRKL-BUSD LP',
+    lpSymbol: 'MRKL-WFTM LP',
     lpAddresses: {
       97: '',
       250: '0x8694a1864e04624Bb9FB8b8F1969829CfA1367A3',
     },
-    tokenSymbol: 'MERKEL',
+    tokenSymbol: 'MRKL',
     tokenAddresses: {
       97: '',
       250: '0x2f49B9a4d13fc7f4A1A46ef4a546F8c8FC0C9526',
@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'MERKEL-BNB LP',
+    lpSymbol: 'MRKL-USDC LP',
     lpAddresses: {
       97: '',
       250: '0xd1b59d11316e87c3a0a069e80f590ba35cd8d8d3',
     },
-    tokenSymbol: 'MERKEL',
+    tokenSymbol: 'MRKL',
     tokenAddresses: {
       97: '',
       250: '0x2f49B9a4d13fc7f4A1A46ef4a546F8c8FC0C9526',
@@ -37,15 +37,15 @@ const farms: FarmConfig[] = [
   {
     pid: 2,
     risk: 3,
-    lpSymbol: 'BNB-BUSD LP',
+    lpSymbol: 'WFTM-fUSDT LP',
     lpAddresses: {
       97: '',
-      250: '0x1b96b92314c44b159149f7e0303511fb2fc4774f',
+      250: '0x5965E53aa80a0bcF1CD6dbDd72e6A9b2AA047410',
     },
-    tokenSymbol: 'BNB',
+    tokenSymbol: 'WFTM',
     tokenAddresses: {
       97: '',
-      250: '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c',
+      250: '0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -53,15 +53,15 @@ const farms: FarmConfig[] = [
   {
     pid: 3,
     risk: 1,
-    lpSymbol: 'USDT-BUSD LP',
+    lpSymbol: 'USDC-fUSDT LP',
     lpAddresses: {
       97: '',
-      250: '0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd',
+      250: '0xFdef392aDc84607135C24ca45DE5452d77aa10DE',
     },
-    tokenSymbol: 'USDT',
+    tokenSymbol: 'USDC',
     tokenAddresses: {
       97: '',
-      250: '0x55d398326f99059ff775485246999027b3197955',
+      250: '0x04068DA6C83AFCFA0e13ba15A6696662335D5B75',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -69,15 +69,15 @@ const farms: FarmConfig[] = [
   {
     pid: 4,
     risk: 2,
-    lpSymbol: 'BTCB-BNB LP',
+    lpSymbol: 'WBTC-WFTM LP',
     lpAddresses: {
       97: '',
-      250: '0x7561eee90e24f3b348e1087a005f78b4c8453524',
+      250: '0xFdb9Ab8B9513Ad9E419Cf19530feE49d412C3Ee3',
     },
     tokenSymbol: 'BTCB',
     tokenAddresses: {
       97: '',
-      250: '0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c',
+      250: '0x321162Cd933E2Be498Cd2267a90534A804051b11',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -85,15 +85,15 @@ const farms: FarmConfig[] = [
   {
     pid: 5,
     risk: 2,
-    lpSymbol: 'ETH-BNB LP',
+    lpSymbol: 'WETH-WFTM LP',
     lpAddresses: {
       97: '',
-      250: '0x70d8929d04b60af4fb9b58713ebcf18765ade422',
+      250: '0xf0702249F4D3A25cD3DED7859a165693685Ab577',
     },
     tokenSymbol: 'ETH',
     tokenAddresses: {
       97: '',
-      250: '0x2170ed0880ac9a755fd29b2688956bd959f933f8',
+      250: '0x74b23882a30290451A17c44f4F05243b6b58C76d',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
