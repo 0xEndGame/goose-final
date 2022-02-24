@@ -182,12 +182,12 @@ const farms: FarmConfig[] = [
     pid: 12,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'EGG',
+    lpSymbol: 'MRKL',
     lpAddresses: {
       97: '',
       250: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // EGG-BUSD LP
     },
-    tokenSymbol: 'EGG',
+    tokenSymbol: 'MRKL',
     tokenAddresses: {
       97: '',
       250: '0x2f49B9a4d13fc7f4A1A46ef4a546F8c8FC0C9526',
